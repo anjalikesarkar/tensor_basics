@@ -1,4 +1,4 @@
-# tensor_basics
+# Learning Stage: Basic Concepts Practice
 Tensor is a N dimensional array. 
 
 # ## Overview
